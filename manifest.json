@@ -11,6 +11,7 @@
       "48": "icon48.png"
    },
    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnSj3uJpMuMVqXP4JRkPAIFlvkDvzcHMZeIvifeDxWFUEgwgRlYibx16WxNESq5b+mo03vCOcHw/Vzo3iYsKVWm+l4q0gtWsQgqtIgyu9JHC5Xyqv+FmvX9E9JK/pyXneinnWQ/qX9tdC7dO+onZfyDdAG3b5UG+K8Y8B4kNgJpjjxDxnCZcm63i/JUtzHymCRjMJ7b3EF9IAhWH/uRooR6Q77/OD8qrwSDd2dz0/ppS1hAN6uzFEef2UrDIYQunkc9FpbfSh2Xj26rb+Uj3zeEqmYrR/mDUNOpWe1Ho5nWfelv4QUJlX6eJh5AvHPxi57w2a87OBgfxVSPcgmucx2QIDAQAB",
+   "author": PsykoDev,
    "manifest_version": 2,
    "name": "Auto claim Channel points ",
    "update_url": "https://clients2.google.com/service/update2/crx",
